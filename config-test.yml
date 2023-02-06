@@ -1,1 +1,1 @@
-config: "config-test.yml"
+config: "config-test.yml testVersion = 1"
